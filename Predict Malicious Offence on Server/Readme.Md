@@ -1,8 +1,8 @@
-#Predict if the server will be hacked¶
+# Predict if the server will be hacked¶
 
 This is a classification problem as the target variable MULTIPLE_OFFENSE is either 1:Yes or 0:No.
 
-##Summary/Steps followed in the solution-
+## Summary/Steps followed in the solution-
 
 1) Data load and gathering statistics on data such as shape and data types
 
