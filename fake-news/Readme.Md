@@ -1,6 +1,6 @@
 # Predict if the news article is fake
 
-# Kaggle Link - https://www.kaggle.com/c/fake-news/overview
+Kaggle Link - https://www.kaggle.com/c/fake-news/overview
 
 Binary classification problem.
 Classes: 0 - Real
